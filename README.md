@@ -14,3 +14,5 @@ seven_dof_arm_gazebo
 
 chapter4
 seven_dof_arm_config
+
+diff_wheeled_robot  have a error of no joy package in the CmakeLists.txt
